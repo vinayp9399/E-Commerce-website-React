@@ -38,3 +38,9 @@ body{
   font-size:1.2rem;
   color:var(--mainYellow);
 }
+
+.a1{
+  position: absolute;
+  left: 510px;
+  letter-spacing: 3px;
+}
